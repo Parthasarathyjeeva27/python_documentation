@@ -44,7 +44,7 @@ else:
     print("Not divisible by 5")
 
 
-# 6. Find grade based on marks
+# 6. Find the grade based on marks
 marks = int(input("Enter marks: "))
 
 if marks >= 90:
@@ -75,7 +75,7 @@ else:
     print("Number is non-zero")
 
 
-# 9. Find the largest of three numbers
+# 9. Find the largest of the three numbers
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))
