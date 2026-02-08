@@ -1,11 +1,7 @@
 # 1. Check if a number is positive or negative
 num = int(input("Enter a number: "))
 
-if num > 0:
-    print("Positive number")
-else:
-    print("Negative number")
-
+print("Positive number" if num > 0  if num < 0 else "Zero" else "Negative number")
 
 # 2. Check if a number is even or odd
 num = int(input("Enter a number: "))
