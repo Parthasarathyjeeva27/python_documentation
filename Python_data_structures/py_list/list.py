@@ -26,3 +26,6 @@ for fruit in fruits:
 # 5. Find length of list
 print("Total Number of Fruits:", len(fruits))
 
+
+
+print("------END------")
